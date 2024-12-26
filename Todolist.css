@@ -1,0 +1,72 @@
+.Main{
+    height: auto;
+    width: 450px;
+    border-radius: 10px;
+    background-color: #60DBC0;
+    margin-top: 80px;
+    margin-left: 550px;
+    position: fixed;
+}
+.Header{
+    width: 350px;
+    height: 70px;
+    margin-left: 35px;
+    margin-top: 10px;
+    
+}
+.Header h1{
+margin-left: 100px;
+}
+.Content{
+width: 350px;
+height: auto;
+margin-left: 35px;
+margin-top: 10px;
+
+}
+.Content input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    margin-left: 10px;
+    width: 250px;
+}
+.Button{
+    margin-left: 8px;
+    height: 30px;
+    width: 50px;
+    color: black;
+    background-color: #00E06B;
+}
+.listheading{
+    margin-left: 100px;
+}
+.listdata{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    margin-left: 10px;
+    width: 250px;
+   
+    border-radius: 10px;
+    display: flex;
+    background-color: black;
+    color: wheat;
+}
+.Remove{
+    height: 30px;
+    width: 50px;
+    color: white;
+    background-color:#FF0000;
+}
+.Removeall{
+    height: 30px;
+    width: 80px;
+    color: white;
+    background-color:#FF0000;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.listdata h3{
+    margin-left: 30px;
+}
